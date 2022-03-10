@@ -1,5 +1,6 @@
-# TIL
-Today I learned
+# javascsript-deep-dive 정리
+
+
 ### ✏Javascript
 |번호|제목
 |------|---
